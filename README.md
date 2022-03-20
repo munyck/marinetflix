@@ -6,7 +6,7 @@ Interações adicionadas até o momento:
 
 1) Carousel de itens
 2) Layout responsivo
-3) Botão ASSITIR AGORA abre um trailer em video do filme principal
+3) Botão ASSISTIR AGORA abre um trailer em video do filme principal
 4) Botão MAIS INFORMAÇÕES abre as informações do filme principal
 
 ## Desafios extras
